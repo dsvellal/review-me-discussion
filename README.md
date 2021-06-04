@@ -12,3 +12,5 @@ Here are some tips to help you review the code:
 
 All the best!
 
+Please proceed to read the program from [here](./discussion.review.me)
+
